@@ -2,14 +2,18 @@
 
 It is a repository where I have examples and exercises in python
 
--   a. [Importing - Internal & External - Python]()
--   b. [Send Email & Read Inbox - Python TUTORIAL]()
--   c. [Files - Create, Read & Download]()
--   d. [Web Scraping Box Office $$ Numbers]()
--   e. [Scrape & Automate behind Password Protected Apps with Selenium & Python]()
--   f. [The Spotify API - jupyter notebook]()
--   g. [Python Google Sheets API]()
--   h. []()
+-   a. :octocat: [Importing - Internal & External - Python](https://github.com/macknilan/python-examples-and-exercises/tree/main/n_day_python/importing_internal__external-python)
+-   b. :octocat: [Send Email & Read Inbox](https://github.com/macknilan/python-examples-and-exercises/tree/main/n_day_python/send_email__read_inbox)
+-   c. :octocat: [Files - Create, Read & Download](https://github.com/macknilan/python-examples-and-exercises/tree/main/n_day_python/files__create_read__download)
+-   d. :octocat: [Web Scraping Box Office $$ Numbers](https://github.com/macknilan/python-examples-and-exercises/tree/main/n_day_python/web_scraping_box_office_numbers)
+-   e. :octocat: [Scrape & Automate behind Password Protected Apps with Selenium & Python](https://github.com/macknilan/python-examples-and-exercises/tree/main/n_day_python/scrape__automate_behind_password_protected_apps_with_selenium__python)
+-   f. :octocat: [The Spotify API - jupyter notebook](https://github.com/macknilan/python-examples-and-exercises/tree/main/n_day_python/the_spotify_api)
+-   g. :octocat: [Python Google Sheets API](https://github.com/macknilan/python-examples-and-exercises/tree/main/n_day_python/python_google_sheets_api)
+-   h. :octocat: [Api Python Google Sheets](https://github.com/macknilan/python-examples-and-exercises/tree/main/n_day_python/api_python_google_sheets)
+-   i. :octocat: []()
+-   j. :octocat: []()
+-   k. :octocat: []()
+-   l. :octocat: []()
 
 Black
 
