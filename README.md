@@ -2,14 +2,14 @@
 
 It is a repository where I have examples and exercises in python
 
--   1. [Importing - Internal & External - Python]()
--   2. [Send Email & Read Inbox - Python TUTORIAL]()
--   3. [Files - Create, Read & Download]()
--   4. [Web Scraping Box Office $$ Numbers]()
--   5. [Scrape & Automate behind Password Protected Apps with Selenium & Python]()
--   6. [The Spotify API]()
--   7. []()
--   8. []()
+-   a. [Importing - Internal & External - Python]()
+-   b. [Send Email & Read Inbox - Python TUTORIAL]()
+-   c. [Files - Create, Read & Download]()
+-   d. [Web Scraping Box Office $$ Numbers]()
+-   e. [Scrape & Automate behind Password Protected Apps with Selenium & Python]()
+-   f. [The Spotify API - jupyter notebook]()
+-   g. [Python Google Sheets API]()
+-   h. []()
 
 Black
 
@@ -50,4 +50,12 @@ pylint
 
 ```bash
 pylint */*.py
+```
+
+Jupyter notebook
+
+```bash
+jupyter notebook
+# or
+pipenv run jupyter notebook
 ```
